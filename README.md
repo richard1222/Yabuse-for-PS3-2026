@@ -8,6 +8,18 @@ Yabause is a free, open-source emulator for the **Sega Saturn** — Sega's 32-bi
 
 The Saturn is famously one of the hardest consoles to emulate. It has two main CPUs plus several helper chips all working at once, so emulating it takes a lot of processing power. Yabause is one of the emulators that tries to do it accurately, and it was ported to run on the PS3.
 
+## The PS3 port's history
+
+Yabause was ported to PS3 back in **September 2010** — just days after the first PS3 jailbreak. It was released by the French site **PS3Gen** (an anonymous developer from Team GEN) as **version 0.1**. It was a very early beta: slow, laggy, and never updated past v0.1. The port was closed-source, so it can't be rebuilt — but the emulator itself lives on, and a fresh build is possible from current source.
+
+([Brewology page](https://store.brewology.com/ahomebrew.php?brewid=3) — ~58,000 downloads.)
+
+## Fresh 2026 build
+
+A new Yabause PKG was built from current source (October 2026) for modern CFW like 4.93. It uses the maintained libretro Yabause core (v0.9.15) instead of the 2010 v0.1 port, packaged with modern signing so it installs on current firmware. Same requirements as the original: jailbroken PS3, Saturn BIOS (`bios.bin`), and your own game images.
+
+Fair warning: this is an untested fresh build — it compiles cleanly but hasn't been run on real hardware yet, and Saturn emulation on PS3 was always slow. Try it and see.
+
 ## What does it do on PS3?
 
 On a jailbroken PS3, the Yabause port lets you:
