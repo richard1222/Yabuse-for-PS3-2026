@@ -31,6 +31,14 @@ A heads-up on expectations: Saturn emulation is heavy, and this is an old port. 
 3. If you have a Saturn BIOS file, place it where the emulator expects it (check the emulator's settings / docs).
 4. Start Yabause from the XMB, point it at your game image, and play.
 
+## Screenshots
+
+![Yabause running the Sega Saturn boot screen](https://files.catbox.moe/ex8uo0.jpg)
+*Yabause running the Sega Saturn boot screen*
+
+![Yabause running a Saturn game](https://files.catbox.moe/whc2iq.webp)
+*Yabause running a Saturn game*
+
 ## Good to know
 
 - This is a community homebrew port from the early PS3 homebrew era — it is not officially supported by the Yabause team.
